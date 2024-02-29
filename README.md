@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jorge León
-- 👀 I’m interested in econometrics and economy in general
+- 👀 I’m interested in econometrics and economics in general
 - 🌱 I’m currently learning econometrics in R
 - 💞️ I’m looking to collaborate on Investigation projects
 - 📫 How to reach me Jorgeanleonlagos@gmail.com
